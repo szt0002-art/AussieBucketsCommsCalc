@@ -1,10 +1,10 @@
 {
-  "id": "./",
+  "id": "/AussieBucketsCommsCalc/",
   "name": "Aussie Buckets Pay Lab",
   "short_name": "AB Pay Lab",
   "description": "Personal earnings and commission calculator for Aussie Buckets",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/AussieBucketsCommsCalc/",
+  "scope": "/AussieBucketsCommsCalc/",
   "display": "standalone",
   "background_color": "#10120e",
   "theme_color": "#10120e",
@@ -13,13 +13,13 @@
       "src": "./icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "./icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
